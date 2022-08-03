@@ -1,0 +1,167 @@
+No of signatures: 45
+No of crash inputs: 30
+---------------------------
+Signature: AFL/crash10_000186
+Crashes in group: 1
+  1-hongfuzz-crash29
+----
+Signature: AFL/crash05
+Crashes in group: 1
+  1-hongfuzz-crash05
+----
+Signature: AFL/crash06_000170
+Crashes in group: 3
+  1-hongfuzz-crash16
+  2-hongfuzz-crash14
+  3-hongfuzz-crash17
+----
+Signature: AFL/crash12_000369
+Crashes in group: 1
+  1-hongfuzz-crash05
+----
+Signature: AFL/crash11_000248
+Crashes in group: 2
+  1-hongfuzz-crash27
+  2-hongfuzz-crash26
+----
+Signature: AFL/crash07_000246
+Crashes in group: 1
+  1-hongfuzz-crash24
+----
+Signature: AFL/crash06_000176
+Crashes in group: 1
+  1-hongfuzz-crash13
+----
+Signature: AFL/crash06_000194
+Crashes in group: 1
+  1-hongfuzz-crash15
+----
+Signature: AFL/crash10
+Crashes in group: 0
+----
+Signature: AFL/crash10_000249
+Crashes in group: 1
+  1-hongfuzz-crash30
+----
+Signature: AFL/crash12_000328
+Crashes in group: 2
+  1-hongfuzz-crash23
+  2-hongfuzz-crash22
+----
+Signature: AFL/crash06_000130
+Crashes in group: 6
+  1-hongfuzz-crash12
+  2-hongfuzz-crash11
+  3-hongfuzz-crash08
+  4-hongfuzz-crash10
+  5-hongfuzz-crash09
+  6-hongfuzz-crash09
+----
+Signature: AFL/crash10_000277
+Crashes in group: 0
+----
+Signature: AFL/crash07_000347
+Crashes in group: 0
+----
+Signature: AFL/crash10_000243
+Crashes in group: 2
+  1-hongfuzz-crash07
+  2-hongfuzz-crash06
+----
+Signature: AFL/crash11_000413
+Crashes in group: 0
+----
+Signature: AFL/crash06_000112
+Crashes in group: 0
+----
+Signature: AFL/crash08_000088
+Crashes in group: 1
+  1-hongfuzz-crash28
+----
+Signature: AFL/crash12_000246
+Crashes in group: 2
+  1-hongfuzz-crash21
+  2-hongfuzz-crash20
+----
+Signature: AFL/crash09_000219
+Crashes in group: 0
+----
+Signature: AFL/crash07_000318
+Crashes in group: 0
+----
+Signature: AFL/crash07_000194
+Crashes in group: 0
+----
+Signature: AFL/crash11
+Crashes in group: 0
+----
+Signature: AFL/crash06_000165
+Crashes in group: 0
+----
+Signature: AFL/crash12
+Crashes in group: 0
+----
+Signature: AFL/crash05_000685
+Crashes in group: 0
+----
+Signature: AFL/crash06_000022
+Crashes in group: 0
+----
+Signature: AFL/crash12_000366
+Crashes in group: 1
+  1-hongfuzz-crash19
+----
+Signature: AFL/crash09
+Crashes in group: 1
+  1-hongfuzz-crash01
+----
+Signature: AFL/crash12_000311
+Crashes in group: 1
+  1-hongfuzz-crash18
+----
+Signature: AFL/crash06_000074
+Crashes in group: 0
+----
+Signature: AFL/crash12_000262
+Crashes in group: 0
+----
+Signature: AFL/crash09_000112
+Crashes in group: 0
+----
+Signature: AFL/crash10_000215
+Crashes in group: 0
+----
+Signature: AFL/crash12_000363
+Crashes in group: 0
+----
+Signature: AFL/crash06_000045
+Crashes in group: 0
+----
+Signature: AFL/crash11_000421
+Crashes in group: 0
+----
+Signature: AFL/crash06_000072
+Crashes in group: 0
+----
+Signature: AFL/crash06_000163
+Crashes in group: 1
+  1-hongfuzz-crash12
+----
+Signature: AFL/crash08
+Crashes in group: 0
+----
+Signature: AFL/crash06_000164
+Crashes in group: 0
+----
+Signature: AFL/crash05_000291
+Crashes in group: 0
+----
+Signature: AFL/crash07
+Crashes in group: 0
+----
+Signature: AFL/crash06
+Crashes in group: 0
+----
+Signature: AFL/crash06_000172
+Crashes in group: 0
+----

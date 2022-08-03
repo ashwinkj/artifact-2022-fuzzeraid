@@ -1,0 +1,2 @@
+WITH x AS(SELECT*FROM t)SELECT "a","b"""EXCEPT SELECT.0 "a", avg(1)"b" ORDER BY 1 COLLATE"";
+

@@ -1,0 +1,1 @@
+CREATE TABLE p(a clob UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

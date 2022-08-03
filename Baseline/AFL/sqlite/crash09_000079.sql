@@ -1,0 +1,1 @@
+CREATE TABLE AUTOINCREMENTCHECKp(a sqlite_compileoption_get(1) UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

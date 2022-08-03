@@ -1,0 +1,15 @@
+No of signatures: 2
+No of crash inputs: 6
+---------------------------
+Signature: AFL/crash13
+Crashes in group: 6
+  1-sf_8e656ba39b6747f9bfcce7f772238d18-332-minimized
+  2-sf_9b79211220d56b50fd663a26e763177b-0-minimized
+  3-sf_bd4db51ab35cbf10720db38ac4d5eb4a-9-minimized
+  4-sf_08edb718322fff267cc4ecd3a02a9f38-0-minimized
+  5-sf_50676cb20ca867517209b305766b7477-248-minimized
+  6-sf_bd4db51ab35cbf10720db38ac4d5eb4a-jXhO0V-minimized
+----
+Signature: AFL/crash13_000041
+Crashes in group: 0
+----

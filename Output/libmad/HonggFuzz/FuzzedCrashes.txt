@@ -1,0 +1,15 @@
+No of signatures: 2
+No of crash inputs: 6
+---------------------------
+Signature: AFL/crash13
+Crashes in group: 6
+  1-hongfuzz-crash04
+  2-hongfuzz-crash02
+  3-hongfuzz-crash03
+  4-hongfuzz-crash13
+  5-hongfuzz-crash05
+  6-hongfuzz-crash06
+----
+Signature: AFL/crash13_000041
+Crashes in group: 0
+----

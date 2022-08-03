@@ -1,0 +1,1 @@
+PRAGMA encoding='UTF16';CREATE VIRTUAL TABLE È USING sš( trim(G,1)1);

@@ -1,0 +1,255 @@
+No of signatures: 13
+No of crash inputs: 213
+---------------------------
+Signature: AFL/crash2_000497
+Crashes in group: 1
+  1-hongfuzz-crash156
+----
+Signature: AFL/crash2_000476
+Crashes in group: 0
+----
+Signature: AFL/crash1_000065
+Crashes in group: 54
+  1-hongfuzz-crash171
+  2-hongfuzz-crash207
+  3-hongfuzz-crash206
+  4-hongfuzz-crash201
+  5-hongfuzz-crash193
+  6-hongfuzz-crash169
+  7-hongfuzz-crash187
+  8-hongfuzz-crash186
+  9-hongfuzz-crash205
+  10-hongfuzz-crash195
+  11-hongfuzz-crash182
+  12-hongfuzz-crash199
+  13-hongfuzz-crash183
+  14-hongfuzz-crash190
+  15-hongfuzz-crash180
+  16-hongfuzz-crash204
+  17-hongfuzz-crash172
+  18-hongfuzz-crash178
+  19-hongfuzz-crash202
+  20-hongfuzz-crash185
+  21-hongfuzz-crash170
+  22-hongfuzz-crash176
+  23-hongfuzz-crash192
+  24-hongfuzz-crash203
+  25-hongfuzz-crash165
+  26-hongfuzz-crash175
+  27-hongfuzz-crash166
+  28-hongfuzz-crash209
+  29-hongfuzz-crash179
+  30-hongfuzz-crash159
+  31-hongfuzz-crash191
+  32-hongfuzz-crash189
+  33-hongfuzz-crash161
+  34-hongfuzz-crash164
+  35-hongfuzz-crash162
+  36-hongfuzz-crash173
+  37-hongfuzz-crash158
+  38-hongfuzz-crash188
+  39-hongfuzz-crash157
+  40-hongfuzz-crash167
+  41-hongfuzz-crash184
+  42-hongfuzz-crash196
+  43-hongfuzz-crash163
+  44-hongfuzz-crash208
+  45-hongfuzz-crash198
+  46-hongfuzz-crash174
+  47-hongfuzz-crash200
+  48-hongfuzz-crash160
+  49-hongfuzz-crash210
+  50-hongfuzz-crash197
+  51-hongfuzz-crash177
+  52-hongfuzz-crash181
+  53-hongfuzz-crash194
+  54-hongfuzz-crash168
+----
+Signature: AFL/crash2_000628
+Crashes in group: 130
+  1-hongfuzz-crash094
+  2-hongfuzz-crash075
+  3-hongfuzz-crash001
+  4-hongfuzz-crash155
+  5-hongfuzz-crash104
+  6-hongfuzz-crash007
+  7-hongfuzz-crash027
+  8-hongfuzz-crash013
+  9-hongfuzz-crash059
+  10-hongfuzz-crash045
+  11-hongfuzz-crash145
+  12-hongfuzz-crash053
+  13-hongfuzz-crash089
+  14-hongfuzz-crash102
+  15-hongfuzz-crash009
+  16-hongfuzz-crash058
+  17-hongfuzz-crash002
+  18-hongfuzz-crash090
+  19-hongfuzz-crash141
+  20-hongfuzz-crash017
+  21-hongfuzz-crash120
+  22-hongfuzz-crash111
+  23-hongfuzz-crash044
+  24-hongfuzz-crash151
+  25-hongfuzz-crash021
+  26-hongfuzz-crash116
+  27-hongfuzz-crash049
+  28-hongfuzz-crash093
+  29-hongfuzz-crash107
+  30-hongfuzz-crash037
+  31-hongfuzz-crash128
+  32-hongfuzz-crash023
+  33-hongfuzz-crash103
+  34-hongfuzz-crash062
+  35-hongfuzz-crash130
+  36-hongfuzz-crash076
+  37-hongfuzz-crash105
+  38-hongfuzz-crash054
+  39-hongfuzz-crash061
+  40-hongfuzz-crash008
+  41-hongfuzz-crash106
+  42-hongfuzz-crash072
+  43-hongfuzz-crash085
+  44-hongfuzz-crash005
+  45-hongfuzz-crash125
+  46-hongfuzz-crash138
+  47-hongfuzz-crash030
+  48-hongfuzz-crash029
+  49-hongfuzz-crash079
+  50-hongfuzz-crash148
+  51-hongfuzz-crash110
+  52-hongfuzz-crash134
+  53-hongfuzz-crash100
+  54-hongfuzz-crash069
+  55-hongfuzz-crash018
+  56-hongfuzz-crash144
+  57-hongfuzz-crash033
+  58-hongfuzz-crash092
+  59-hongfuzz-crash041
+  60-hongfuzz-crash026
+  61-hongfuzz-crash050
+  62-hongfuzz-crash080
+  63-hongfuzz-crash073
+  64-hongfuzz-crash117
+  65-hongfuzz-crash146
+  66-hongfuzz-crash091
+  67-hongfuzz-crash088
+  68-hongfuzz-crash028
+  69-hongfuzz-crash068
+  70-hongfuzz-crash063
+  71-hongfuzz-crash034
+  72-hongfuzz-crash077
+  73-hongfuzz-crash147
+  74-hongfuzz-crash055
+  75-hongfuzz-crash087
+  76-hongfuzz-crash136
+  77-hongfuzz-crash098
+  78-hongfuzz-crash137
+  79-hongfuzz-crash121
+  80-hongfuzz-crash035
+  81-hongfuzz-crash014
+  82-hongfuzz-crash082
+  83-hongfuzz-crash065
+  84-hongfuzz-crash086
+  85-hongfuzz-crash095
+  86-hongfuzz-crash124
+  87-hongfuzz-crash067
+  88-hongfuzz-crash115
+  89-hongfuzz-crash071
+  90-hongfuzz-crash032
+  91-hongfuzz-crash113
+  92-hongfuzz-crash108
+  93-hongfuzz-crash036
+  94-hongfuzz-crash051
+  95-hongfuzz-crash083
+  96-hongfuzz-crash011
+  97-hongfuzz-crash064
+  98-hongfuzz-crash057
+  99-hongfuzz-crash020
+  100-hongfuzz-crash040
+  101-hongfuzz-crash129
+  102-hongfuzz-crash150
+  103-hongfuzz-crash056
+  104-hongfuzz-crash132
+  105-hongfuzz-crash140
+  106-hongfuzz-crash135
+  107-hongfuzz-crash010
+  108-hongfuzz-crash109
+  109-hongfuzz-crash118
+  110-hongfuzz-crash043
+  111-hongfuzz-crash084
+  112-hongfuzz-crash099
+  113-hongfuzz-crash022
+  114-hongfuzz-crash131
+  115-hongfuzz-crash046
+  116-hongfuzz-crash154
+  117-hongfuzz-crash012
+  118-hongfuzz-crash122
+  119-hongfuzz-crash119
+  120-hongfuzz-crash078
+  121-hongfuzz-crash152
+  122-hongfuzz-crash015
+  123-hongfuzz-crash114
+  124-hongfuzz-crash081
+  125-hongfuzz-crash038
+  126-hongfuzz-crash133
+  127-hongfuzz-crash139
+  128-hongfuzz-crash112
+  129-hongfuzz-crash066
+  130-hongfuzz-crash097
+----
+Signature: AFL/crash4_000442
+Crashes in group: 0
+----
+Signature: AFL/crash3_000604
+Crashes in group: 10
+  1-hongfuzz-crash220
+  2-hongfuzz-crash217
+  3-hongfuzz-crash213
+  4-hongfuzz-crash215
+  5-hongfuzz-crash221
+  6-hongfuzz-crash216
+  7-hongfuzz-crash219
+  8-hongfuzz-crash214
+  9-hongfuzz-crash212
+  10-hongfuzz-crash218
+----
+Signature: AFL/crash3_000006
+Crashes in group: 0
+----
+Signature: AFL/crash3_000674
+Crashes in group: 0
+----
+Signature: AFL/crash3_000521
+Crashes in group: 0
+----
+Signature: AFL/crash4_000166
+Crashes in group: 1
+  1-hongfuzz-crash211
+----
+Signature: AFL/crash4_000008
+Crashes in group: 0
+----
+Signature: AFL/crash4_000406
+Crashes in group: 0
+----
+Signature: AFL/crash2_000670
+Crashes in group: 17
+  1-hongfuzz-crash039
+  2-hongfuzz-crash004
+  3-hongfuzz-crash048
+  4-hongfuzz-crash052
+  5-hongfuzz-crash127
+  6-hongfuzz-crash149
+  7-hongfuzz-crash024
+  8-hongfuzz-crash019
+  9-hongfuzz-crash006
+  10-hongfuzz-crash016
+  11-hongfuzz-crash143
+  12-hongfuzz-crash070
+  13-hongfuzz-crash025
+  14-hongfuzz-crash101
+  15-hongfuzz-crash126
+  16-hongfuzz-crash142
+  17-hongfuzz-crash074
+----

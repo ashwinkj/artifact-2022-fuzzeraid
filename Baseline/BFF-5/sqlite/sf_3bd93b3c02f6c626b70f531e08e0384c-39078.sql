@@ -1,0 +1,2 @@
+WITH x AS(SELECT*FROM t)SELECT "a","Û"""EXCEPT SELECT.0 "a", ifnull(1,1)"b" ORDER BY 1 COLLATE"";
+

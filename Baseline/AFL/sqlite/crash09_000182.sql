@@ -1,0 +1,1 @@
+CREATE TABLE p(a 'a'DEFAULT ( instr(1,1))UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

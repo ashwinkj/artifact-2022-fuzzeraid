@@ -1,0 +1,1 @@
+CREATE TABLE p(a trim(1,1) UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

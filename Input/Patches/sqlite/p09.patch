@@ -1,0 +1,10 @@
+--- /src/build.c
++++ /src/build.c
+@@ -3183,6 +3183,7 @@ Index *sqlite3CreateIndex(
+             pIdx->onError = pIndex->onError;
+           }
+         }
++        pRet = pIdx;
+         goto exit_create_index;
+       }
+     }

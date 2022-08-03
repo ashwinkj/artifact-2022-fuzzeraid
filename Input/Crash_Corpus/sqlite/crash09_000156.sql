@@ -1,0 +1,1 @@
+CREATE TABLE p(a REAL blobS'a''b' UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

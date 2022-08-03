@@ -1,0 +1,11 @@
+No of signatures: 2
+No of crash inputs: 1
+---------------------------
+Signature: AFL/crash15_000024
+Crashes in group: 2
+  1-sf_b28c51996ba7ac70c607ad9ba07f3891
+  2-sf_176d5feb170ed07d3e2f7fbff4fb240e
+----
+Signature: AFL/crash14_000003
+Crashes in group: 0
+----

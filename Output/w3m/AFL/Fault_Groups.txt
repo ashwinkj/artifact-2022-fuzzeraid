@@ -1,0 +1,8 @@
+Bug 1:
+  AFL/crash1_000065 :: 250
+Bug 2:
+  AFL/crash4_000442 :: 351
+Bug 3:
+  AFL/crash3_000674 :: 250
+Bug 4:
+  AFL/crash4_000166 :: 115

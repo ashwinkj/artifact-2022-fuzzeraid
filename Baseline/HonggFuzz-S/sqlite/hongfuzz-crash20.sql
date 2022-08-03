@@ -1,0 +1,1 @@
+WITH x AS(SELECT*FROM t)SELECT group_concat(1,2)ORDER BY 1 COLLATE"'S";

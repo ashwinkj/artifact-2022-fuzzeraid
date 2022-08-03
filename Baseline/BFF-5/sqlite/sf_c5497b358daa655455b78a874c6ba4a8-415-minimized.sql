@@ -1,0 +1,1 @@
+CREATE TABLE p(a 'h'DEFAULT ( ?AND -#1)UE,PRY KEY('a'))WITHOUT rowid;

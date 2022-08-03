@@ -1,0 +1,4 @@
+VACuUM ;select
+DISTINCT ?1NOTNULL ;select
+ ?1AND+#00;
+A

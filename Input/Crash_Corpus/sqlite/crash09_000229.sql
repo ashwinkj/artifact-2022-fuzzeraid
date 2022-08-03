@@ -1,0 +1,3 @@
+CREATE TABLE p(a 'a'DEFAULT ( ?1AND -#1aaaaaaaaaaaaaaaaaaaaaaadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaOUT rowid;
+aadaaaaaaaaaaaaaaa‹aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaOUT rowid;
+'))d;

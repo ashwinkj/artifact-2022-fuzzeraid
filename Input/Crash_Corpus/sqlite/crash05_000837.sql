@@ -1,0 +1,2 @@
+VACUUM ;select instr(1, nullif(1,1) -11)TUM ;select
+ ?1AND+#00;

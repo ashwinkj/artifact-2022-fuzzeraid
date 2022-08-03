@@ -1,0 +1,16 @@
+Bug 5:
+  Signature: AFL/crash05 :: 3
+Bug 12:
+  Signature: AFL/crash06_000170 :: 12
+Bug 9:
+  Signature: AFL/crash07_000246 :: 1
+Bug 12:
+  Signature: AFL/crash08_000088 :: 1
+Bug 9:
+  Signature: AFL/crash09 :: 1
+Bug 12:
+  Signature: AFL/crash10_000186 :: 2
+Bug 12:
+  Signature: AFL/crash11_000248 :: 2
+Bug 12:
+  Signature: AFL/crash12_000328 :: 2

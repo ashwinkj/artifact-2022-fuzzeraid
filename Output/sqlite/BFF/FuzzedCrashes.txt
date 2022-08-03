@@ -1,0 +1,223 @@
+No of signatures: 45
+No of crash inputs: 90
+---------------------------
+Signature: AFL/crash06_000172
+Crashes in group: 1
+  1-sf_4e9112032c1d67fce5a3729a1eaec6f0-50754
+----
+Signature: AFL/crash06_000176
+Crashes in group: 8
+  1-sf_92910c6c8425ae38a01ae973691461b0-915
+  2-sf_eb1a40ae47abf0e96eaaccbb8cd61927-21721-minimized
+  3-sf_f5c0aff938701629cd8efd995ba2cdc2-60573
+  4-sf_08bc4289dbb2d079fba6e9765a691007-257-minimized
+  5-sf_301fe4f6f1590022351207bb7f991a63-50587
+  6-sf_6d02cb85c2c8d719a2bc81485192389b-22193-minimized
+  7-sf_bf861ce81ab1a601977fd6247d429e0a-3251
+  8-sf_b2d0b18f4630ea9f8b4c03716f9bf008-173
+----
+Signature: AFL/crash06_000170
+Crashes in group: 2
+  1-sf_5dc0fe9adcf75acc7bb3d07037228f49-72226
+  2-sf_f5c0aff938701629cd8efd995ba2cdc2-846
+----
+Signature: AFL/crash06_000163
+Crashes in group: 0
+----
+Signature: AFL/crash11_000421
+Crashes in group: 2
+  1-sf_b74e62b161ad068e5356031d55f725c6-3623-minimized
+  2-sf_7087002f707f61e8277bfc99e0d0e18c-2697
+----
+Signature: AFL/crash06_000045
+Crashes in group: 1
+  1-sf_8ffc5f34eda3696ef2ba19f3805b6510-14345
+----
+Signature: AFL/crash09_000112
+Crashes in group: 4
+  1-sf_7bdde8ed41e36cfa4e9785f62a53d626-3190
+  2-sf_a4b7fbdb86ddd439b212572753c4ba11-2349
+  3-sf_92215e5c6ce2b9b4bdbade0a1b846b83-42269
+  4-sf_471e87cfde4b451ce34ab45a6b386f2a-1903-minimized
+----
+Signature: AFL/crash09_000219
+Crashes in group: 1
+  1-sf_60ed37ebafdd364290a6ed57d97c9323-2960-minimized
+----
+Signature: AFL/crash05
+Crashes in group: 3
+  1-sf_03840ca0654bfbb376ddd5cfb0cf0cc1-18793-minimized
+  2-sf_d34321a46e960be642d57bf26d157d89-84373
+  3-sf_03840ca0654bfbb376ddd5cfb0cf0cc1-45233
+----
+Signature: AFL/crash06_000022
+Crashes in group: 13
+  1-sf_b9459a2c32b01365273efcf3a7048804-97115
+  2-sf_b9459a2c32b01365273efcf3a7048804-14911
+  3-sf_54701a2b06f479557cf2b8aae8a109ac-37096
+  4-sf_cf24b3eec204646b08a5e0de133b004e-13593
+  5-sf_38212897b4cdc4525908f53947cb86e7-6797-minimized
+  6-sf_b9459a2c32b01365273efcf3a7048804-78240
+  7-sf_f81b6c79b93ef7d9a51386cfefc188e4-3444
+  8-sf_c3fb5c8c79a398f675ba50754fb06950-1781
+  9-sf_91e79586680182062beef04660ec4873-7327
+  10-sf_c9bdd740fb653702672aa55c3f93febe-13837
+  11-sf_38212897b4cdc4525908f53947cb86e7-19672
+  12-sf_b9459a2c32b01365273efcf3a7048804-97117
+  13-sf_3399c0d34fca5ed2640cae318ca1d5de-26455-minimized
+----
+Signature: AFL/crash12_000369
+Crashes in group: 2
+  1-sf_fa475e2383baa0e58cacb943841fda98-28496
+  2-sf_fa475e2383baa0e58cacb943841fda98-14580
+----
+Signature: AFL/crash10
+Crashes in group: 5
+  1-sf_e29ea3cd1e442f822dc648d01a80cb92-673
+  2-sf_83f0d4083385f9847761f083c543ce9e-47299
+  3-sf_bcd9e0157fc496e2bc080b223e58b9fd-34688
+  4-sf_67464da6151f6a78a98beeae6a3bab44-361
+  5-sf_9943da86e3ca500ebaf1ba3ae4af0680-52830
+----
+Signature: AFL/crash12_000262
+Crashes in group: 0
+----
+Signature: AFL/crash07
+Crashes in group: 2
+  1-sf_1edd3b6deaef5810e4eee2c306a7ef2b-13184
+  2-sf_3e7c550980288d85ffc8df349cee64a9-36564
+----
+Signature: AFL/crash10_000249
+Crashes in group: 0
+----
+Signature: AFL/crash07_000347
+Crashes in group: 6
+  1-sf_0ffb0777ce3c582a3bf4f0f03746c8b3-1128
+  2-sf_76dfbf1e4f057c074f5fae11fc2096c9-20855-minimized
+  3-sf_cfd592c7a21e237a5fa875405ae6999a-11370
+  4-sf_44afafbd18ab13f5d236af37a593d8bd-329
+  5-sf_da10874716d8cfaa88b7a91cf034d8f4-426
+  6-sf_cfd592c7a21e237a5fa875405ae6999a-2707-minimized
+----
+Signature: AFL/crash08
+Crashes in group: 5
+  1-sf_b646a28389707b12be796479ccc16202-1595
+  2-sf_aecc0386de442064ed8970c52b573fc0-103190
+  3-sf_6fce08283b059c10934c769bb5905cda-1434-minimized
+  4-sf_bf4bb396065073010546edead52e9e83-5928
+  5-sf_0aad50231efec233531c0946e7f2429e-3781
+----
+Signature: AFL/crash11
+Crashes in group: 0
+----
+Signature: AFL/crash06_000130
+Crashes in group: 4
+  1-sf_c7494adc07d6eab9783bf96e36a27599-70994
+  2-sf_6b6cf1041c5153840089fee216a00b8b-53054
+  3-sf_6b56f13c63b6f66f3d3071429b5e3b5a-2220
+  4-sf_e4c8af8e6e89dccfb54a5ffefa326232-3360
+----
+Signature: AFL/crash11_000248
+Crashes in group: 0
+----
+Signature: AFL/crash07_000194
+Crashes in group: 3
+  1-sf_76dfbf1e4f057c074f5fae11fc2096c9-72446
+  2-sf_76dfbf1e4f057c074f5fae11fc2096c9-33571
+  3-sf_76dfbf1e4f057c074f5fae11fc2096c9-40038
+----
+Signature: AFL/crash12_000363
+Crashes in group: 0
+----
+Signature: AFL/crash06_000112
+Crashes in group: 0
+----
+Signature: AFL/crash11_000413
+Crashes in group: 0
+----
+Signature: AFL/crash07_000246
+Crashes in group: 0
+----
+Signature: AFL/crash10_000243
+Crashes in group: 14
+  1-sf_7ee79675bb4a6137b17f10e595615a0e-7912-minimized
+  2-sf_d3d071c68fbb207da6f12578ff364d5d-44485-minimized
+  3-sf_607bfb82ecccf375fd0dad42bbd5dff2-126-minimized
+  4-sf_0098f5803d019dfc9e5ed04e493d8650-336-minimized
+  5-sf_5dbc8c4e7c0938b86b82432c50d4ad3b-282-minimized
+  6-sf_607bfb82ecccf375fd0dad42bbd5dff2-125
+  7-sf_c219c5c169c8176f543af241cbcdae82-3102
+  8-sf_607bfb82ecccf375fd0dad42bbd5dff2-635-minimized
+  9-sf_b6c850b8ee6dd56fc0a1e5a05ac59ab7-15225-minimized
+  10-sf_bd632022b59ed94fcaf037e63a33cfb7-789
+  11-sf_607bfb82ecccf375fd0dad42bbd5dff2-41308-minimized
+  12-sf_7ee79675bb4a6137b17f10e595615a0e-21030-minimized
+  13-sf_b16596f18a4585d11093a8bf33f54ee8-57481
+  14-sf_c5497b358daa655455b78a874c6ba4a8-415-minimized
+----
+Signature: AFL/crash06_000072
+Crashes in group: 0
+----
+Signature: AFL/crash12_000366
+Crashes in group: 1
+  1-sf_606ee5b3fd10f645c3143fb4895ed3f1-112882
+----
+Signature: AFL/crash10_000215
+Crashes in group: 0
+----
+Signature: AFL/crash09
+Crashes in group: 0
+----
+Signature: AFL/crash05_000291
+Crashes in group: 1
+  1-sf_f36e04f67fa3c63613d0a9f6abe62f29-385
+----
+Signature: AFL/crash06_000074
+Crashes in group: 0
+----
+Signature: AFL/crash05_000685
+Crashes in group: 0
+----
+Signature: AFL/crash08_000088
+Crashes in group: 0
+----
+Signature: AFL/crash06_000194
+Crashes in group: 1
+  1-sf_8d4c17e32f8e4a01f96417f84bf30294-9966
+----
+Signature: AFL/crash12_000246
+Crashes in group: 0
+----
+Signature: AFL/crash12_000328
+Crashes in group: 6
+  1-sf_1d18b544b4c1c72e49450ee31d2c291d-38126
+  2-sf_3bd93b3c02f6c626b70f531e08e0384c-39078
+  3-sf_a9dc904d0fae43f6cce8142ae5d1fbf7-75296
+  4-sf_e0a6573cbb5668d759dc1c24d16bb954-23699
+  5-sf_608701ba8921faf3c144d42fab0e88b7-57632-minimized
+  6-sf_a9dc904d0fae43f6cce8142ae5d1fbf7-90296
+----
+Signature: AFL/crash06_000164
+Crashes in group: 0
+----
+Signature: AFL/crash06_000165
+Crashes in group: 0
+----
+Signature: AFL/crash06
+Crashes in group: 0
+----
+Signature: AFL/crash12
+Crashes in group: 0
+----
+Signature: AFL/crash12_000311
+Crashes in group: 0
+----
+Signature: AFL/crash10_000277
+Crashes in group: 0
+----
+Signature: AFL/crash10_000186
+Crashes in group: 0
+----
+Signature: AFL/crash07_000318
+Crashes in group: 0
+----

@@ -1,0 +1,2 @@
+CREATE TABLE p(a
+goob(1,1) UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

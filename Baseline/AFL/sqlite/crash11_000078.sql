@@ -1,0 +1,2 @@
+PRAGMA e;select@CURRENT_TIMESTAMPower(0)"a",""GROUP BY a ORDER BY a;
+

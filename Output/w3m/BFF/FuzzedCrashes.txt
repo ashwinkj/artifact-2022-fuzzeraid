@@ -1,0 +1,149 @@
+No of signatures: 13
+No of crash inputs: 108
+---------------------------
+Signature: AFL/crash4_000442
+Crashes in group: 2
+  1-sf_00aeb30e3d1520336ed0163895f41898-27-minimized
+  2-sf_bb9969cf414bb91c79fd1b9e61cf48e3-44-minimized
+----
+Signature: AFL/crash2_000497
+Crashes in group: 0
+----
+Signature: AFL/crash1_000065
+Crashes in group: 2
+  1-sf_105d33610999a62ff2c09007b0ed0431-39-minimized
+  2-sf_e6629f5d9c273b92c61720350f363ed2-2-minimized
+----
+Signature: AFL/crash2_000628
+Crashes in group: 3
+  1-sf_0bf458159b6eb4375acc6466e6979cc2-1508-minimized
+  2-sf_0bf458159b6eb4375acc6466e6979cc2-943-minimized
+  3-sf_e7f6564eda012e8ba77d6fee88665d77-708-minimized
+----
+Signature: AFL/crash2_000476
+Crashes in group: 0
+----
+Signature: AFL/crash2_000670
+Crashes in group: 0
+----
+Signature: AFL/crash4_000166
+Crashes in group: 5
+  1-sf_3eaf1373860fa6404cc206e33595f791-1-minimized
+  2-sf_0722daefaeab266f10c9bc2ac0a67469-493-minimized
+  3-sf_42aa27e93307fd8d81f99cb31ebc5c15-10421-minimized
+  4-sf_3236026512c8768a0e66f9556f037002-95-minimized
+  5-sf_0722daefaeab266f10c9bc2ac0a67469-8166-minimized
+----
+Signature: AFL/crash4_000008
+Crashes in group: 0
+----
+Signature: AFL/crash3_000674
+Crashes in group: 94
+  1-sf_d4559d042dfaeec443a053fda59f2207-7936-minimized
+  2-sf_926f7424a0ffd37c610b870db5cfb493-951-minimized
+  3-sf_e06e4157bbe65ea723dc2a5c5b531e93-8270-minimized
+  4-sf_5cfd6c5cbaf981b76b66cc507c5c2e4e-8845-minimized
+  5-sf_439df04dc05ef1f009faad6eecb8c93b-9260-minimized
+  6-sf_2060ab6a1ab4f32b1a4739da8e79ffdd-1953-minimized
+  7-sf_fd197bd2cdd4617718fabb9c58caff3a-6783-minimized
+  8-sf_4766e60ae01c634653d62e5a1d3ac0d2-3467-minimized
+  9-sf_395f4af5230dc3d2eea15154e45b3c3c-8358-minimized
+  10-sf_48989d7c18e9b327dd81665dd700fa59-6609-minimized
+  11-sf_9cd5abd7ed8806021ef886d183b7f38a-5988-minimized
+  12-sf_1ca6d924e5effa0a3bed4be95601ac66-3387-minimized
+  13-sf_32e31d5e70495f28d9c399603788f7e2-4785-minimized
+  14-sf_1efb8a30cc26e5506319a267c7db3c81-732-minimized
+  15-sf_1a9af5a1d9d8f144738b973d90c4f20c-3457-minimized
+  16-sf_a2fccded1850fe4da166dd8cffe27b02-8538-minimized
+  17-sf_f6063d2747955075d6b85792296c2ed9-2312-minimized
+  18-sf_0b784e03a7d635bcae8b31289e61705b-9573-minimized
+  19-sf_b7c2e2158615f520591191e64a98e23b-6021-minimized
+  20-sf_395f4af5230dc3d2eea15154e45b3c3c-2143-minimized
+  21-sf_a63c54724965e0c6a6fe7b6a270c7b3f-4045-minimized
+  22-sf_439df04dc05ef1f009faad6eecb8c93b-9263-minimized
+  23-sf_186fb0952400fd49f6112526a4be0b69-12275-minimized
+  24-sf_60bdf4c8b58f511080fa8d560ef38d6d-13551-minimized
+  25-sf_6c1100e4011b6e476d43960028720a2a-10142-minimized
+  26-sf_9cd5abd7ed8806021ef886d183b7f38a-1986-minimized
+  27-sf_b7c2e2158615f520591191e64a98e23b-1632-minimized
+  28-sf_95cdbdf97637369b3babb90b4f30e45a-2058-minimized
+  29-sf_1efb8a30cc26e5506319a267c7db3c81-730-minimized
+  30-sf_ed1f782436eed5127359711b61f3c50b-813-minimized
+  31-sf_a63c54724965e0c6a6fe7b6a270c7b3f-3338-minimized
+  32-sf_33addcf62b204c03b2711d05078d55c0-6691-minimized
+  33-sf_b898075b6cb5fa0d007ce196f17995b2-2320-minimized
+  34-sf_186fb0952400fd49f6112526a4be0b69-DzCtlR-minimized
+  35-sf_ca95b96713580d49f53c450f84c14378-vTawJy-minimized
+  36-sf_64bfb48976a015b0c31defc2cae19715-13080-minimized
+  37-sf_a4c90d2a9e3655cfa471ffd923c8be17-6603-minimized
+  38-sf_1efb8a30cc26e5506319a267c7db3c81-1708-minimized
+  39-sf_886c72dd1cd178feccd67a3fbca62fd9-86-minimized
+  40-sf_92fd83d30acd699cf327fd6fad7ff8ce-1994-minimized
+  41-sf_ba4c05350a28430fdba6813d37b4675e-11093-minimized
+  42-sf_359702619b6f50c296d351c3c12b2239-5432-minimized
+  43-sf_64bfb48976a015b0c31defc2cae19715-4295-minimized
+  44-sf_18b8899e86d372cc67339ce3d4daed7c-11255-minimized
+  45-sf_18b8899e86d372cc67339ce3d4daed7c-472-minimized
+  46-sf_131e7f3351e8b15048ab302217f03068-1508-minimized
+  47-sf_8155e29ad81e0f9c1e6e602b246102af-6791-minimized
+  48-sf_2b14748f9e0ead832e57abd77b78c8a8-9374-minimized
+  49-sf_0b784e03a7d635bcae8b31289e61705b-12051-minimized
+  50-sf_ca95b96713580d49f53c450f84c14378-756-minimized
+  51-sf_b898075b6cb5fa0d007ce196f17995b2-2890-minimized
+  52-sf_00f3557a19c75d6ed0b61b080ed8df66-13137-minimized
+  53-sf_6fbfbad5b619f9d731122ef9e23d56c4-10527-minimized
+  54-sf_700c2b53add75b5a7bdff6298fea97f9-10098-minimized
+  55-sf_ba4c05350a28430fdba6813d37b4675e-11091-minimized
+  56-sf_c961f1c809bfcaeacc4efc72ccca9d50-12110-minimized
+  57-sf_24ae40ad65f382e9e773f2c7bde24fbc-1545-minimized
+  58-sf_c6b02046cc6ea874bb27069c1197880b-221-minimized
+  59-sf_439df04dc05ef1f009faad6eecb8c93b-7703-minimized
+  60-sf_b277fe1a1cbcd49c277b4cf287eebb26-3642-minimized
+  61-sf_157447dbfa30c97599fcf49691409b7f-2360-minimized
+  62-sf_2b14748f9e0ead832e57abd77b78c8a8-13622-minimized
+  63-sf_a7d93cf16b915c879a9e836b58a47e6e-4165-minimized
+  64-sf_186fb0952400fd49f6112526a4be0b69-739-minimized
+  65-sf_60bdf4c8b58f511080fa8d560ef38d6d-1524-minimized
+  66-sf_5d58a631b496340c8a2058f0ae438725-970-minimized
+  67-sf_926f7424a0ffd37c610b870db5cfb493-mvTMFR-minimized
+  68-sf_cf944eb111949296bc83590e06fa7367-8894-minimized
+  69-sf_1a9af5a1d9d8f144738b973d90c4f20c-3455-minimized
+  70-sf_d2567f8be6970d2a07a980654c25dc11-180-minimized
+  71-sf_ab0c4cc5d08f3806a0b510f7afbea653-5400-minimized
+  72-sf_ca95b96713580d49f53c450f84c14378-3897-minimized
+  73-sf_4295f713aabe9ea4f4e17e0940d5dfc5-2991-minimized
+  74-sf_fd197bd2cdd4617718fabb9c58caff3a-13798-minimized
+  75-sf_971988eeed3a322d49112b2ca597b87d-6814-minimized
+  76-sf_7da89dc1de3ff3e10bc639dfe93763cb-1612-minimized
+  77-sf_0b784e03a7d635bcae8b31289e61705b-7914-minimized
+  78-sf_c961f1c809bfcaeacc4efc72ccca9d50-7896-minimized
+  79-sf_3bc5cb3d6f02effd7f660284cd481439-1904-minimized
+  80-sf_c04165d14a4a497b9c08476809e113fb-12896-minimized
+  81-sf_926f7424a0ffd37c610b870db5cfb493-950-minimized
+  82-sf_0a52e614256b880d81350536df6a71a9-12290-minimized
+  83-sf_970d22dbaf9bbcd26acf5f903cf3f87e-8371-minimized
+  84-sf_b11d1055cfafff928fee724d8caa0d5e-2320-minimized
+  85-sf_9cd5abd7ed8806021ef886d183b7f38a-1988-minimized
+  86-sf_3db078604d4d68d682740875a293745e-777-minimized
+  87-sf_be34ce0afe0ebb436ea93721b9199ab8-164-minimized
+  88-sf_ed1f782436eed5127359711b61f3c50b-9942-minimized
+  89-sf_a6dbb72f93fa910f3dbe015afd5babe1-860-minimized
+  90-sf_51cb58febd2bae6231da88cdad64cf7b-5260-minimized
+  91-sf_f6063d2747955075d6b85792296c2ed9-2316-minimized
+  92-sf_63641ecf5e98c6dbfde11e4945be6c5d-34-minimized
+  93-sf_8155e29ad81e0f9c1e6e602b246102af-4020-minimized
+  94-sf_b8136465ed62c48881b4d33abfde3c79-2413-minimized
+----
+Signature: AFL/crash3_000521
+Crashes in group: 1
+  1-sf_ca2e916b15aeddd983a1861dc050525d-4159-minimized
+----
+Signature: AFL/crash3_000006
+Crashes in group: 0
+----
+Signature: AFL/crash3_000604
+Crashes in group: 0
+----
+Signature: AFL/crash4_000406
+Crashes in group: 0
+----

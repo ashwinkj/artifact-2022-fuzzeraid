@@ -1,0 +1,1 @@
+CREATE TABLE p(a avg(1) UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

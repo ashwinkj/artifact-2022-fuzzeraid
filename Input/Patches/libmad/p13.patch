@@ -1,0 +1,10 @@
+--- /layer3.c
++++ /layer3.c
+@@ -2608,6 +2608,8 @@ int mad_layer_III(struct mad_stream *stream, struct mad_frame *frame)
+     next_md_begin = 0;
+ 
+   md_len = si.main_data_begin + frame_space - next_md_begin;
++  if (md_len > MAD_BUFFER_MDLEN)
++    md_len = MAD_BUFFER_MDLEN;
+ 
+   frame_used = 0;

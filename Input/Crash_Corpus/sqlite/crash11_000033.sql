@@ -1,0 +1,2 @@
+PRAGMA e;select lower(CURRENT_TIMESTAMP)"a",""GROUP BY a ORDER BY a;
+

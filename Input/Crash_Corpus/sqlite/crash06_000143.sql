@@ -1,0 +1,1 @@
+DETACH EXISTS/* */(select group_concat(q)) ;

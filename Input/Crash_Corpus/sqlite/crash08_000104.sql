@@ -1,0 +1,2 @@
+PRAGMA encoding='UTF16';CREATE VIRTUAL TABLE È /*
+GO/B*/ USING s;

@@ -1,0 +1,2 @@
+CREATE TABLE p(a
+go b(1,1) UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;

@@ -1,0 +1,8 @@
+Bug 1: 1
+  Signature: AFL/crash1_000065
+Bug 2: 1
+  Signature: AFL/crash4_000442
+Bug 3: 1
+  Signature: AFL/crash3_000674
+Bug 4: 1
+  Signature: AFL/crash4_000166

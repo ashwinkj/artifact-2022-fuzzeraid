@@ -1,0 +1,1 @@
+CREATE TABLE 'a''b'(a UNIQUE,PRIMARY KEY('a'))WITHOUT rowid;
