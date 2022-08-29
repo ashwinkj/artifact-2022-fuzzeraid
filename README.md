@@ -67,5 +67,4 @@ AFL, BFF and HonggFuzz folders contains the following files:
 Since the deduplicated crashes produced by BFF and HonggFuzz are not tied to their `Bug-ID`, please cross-reference with
 _Baseline_ folder's `p-<Bug-ID>` for getting individual `<Baseline-Setting>`'s classification. For example, the `19`
 _Fault Groups_ for `Bug 5` for `sqlite` in `Output/sqlite/BFF/Fault_Groups.txt` is a combination of `5` from
-`Baseline/BFF-1/BFF-1-patch-05.txt` and `14` from `Baseline/BFF-5/BFF-5-patch-05.txt`.
-
+`Baseline/BFF-1/BFF-1-patch-05.txt` (reported under `BFF-1` in Table 2) and `14` from `Baseline/BFF-5/BFF-5-patch-05.txt` (reported under `BFF-5` in Table 2). Similarly, `2` from `Baseline/HonggFuzz/HonggFuzz-default-patch-05.txt` and `3` from `Baseline/HonggFuzz-S/HonggFuzz-S-patch-05.txt` are reported under `HonggFuzz` and `HonggFuzz-S` in Table 2, respectively.
