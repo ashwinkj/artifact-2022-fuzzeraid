@@ -1,9 +1,0 @@
-fd -t f -e txt -x sed -i 's/crash02/crashT05/' {}
-fd -t f -e txt -x sed -i 's/crash03/crashT06/' {}
-fd -t f -e txt -x sed -i 's/crash04/crashT07/' {}
-fd -t f -e txt -x sed -i 's/crash06/crashT08/' {}
-fd -t f -e txt -x sed -i 's/crash07/crashT09/' {}
-fd -t f -e txt -x sed -i 's/crash08/crashT10/' {}
-fd -t f -e txt -x sed -i 's/crash10/crashT11/' {}
-fd -t f -e txt -x sed -i 's/crash11/crashT12/' {}
-fd -t f -e txt -x sed -i 's/crashT/crash/' {}
